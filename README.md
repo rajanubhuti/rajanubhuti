@@ -1,6 +1,6 @@
 ### Anubhuti Raj
 
-UX designer, final year B.Des at MIT Institute of Design, Pune. I do research led interaction design, and I'm most drawn to automotive and in-car interfaces.
+UX designer, final year B.Des at MIT Institute of Design, Pune. I do research led interaction design, and I'm most drawn to automotive and in car interfaces.
 
 Previously a UX design intern at Tata Motors. Spent a semester at ESAD Orléans in France, researching Level 3 takeover HMI with engineers from Valeo and Renault.
 

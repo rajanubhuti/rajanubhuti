@@ -15,7 +15,7 @@ Now I'm a final year **UX design** student at **MIT Institute of Design, Pune**.
 
 ### 📂 things I've made
 
-| | |
+| project | what it is |
 |---|---|
 | 🌐 **[My portfolio](https://rajanubhuti.github.io/portfolio/)** | My little corner of the internet, built by hand in plain HTML, CSS and JS. [Code here](https://github.com/rajanubhuti/portfolio) |
 | 🚗 **[Designing the Return](https://rajanubhuti.github.io/portfolio/my-work/project-1/)** | An in car display for the sixty seconds before a Level 3 car hands control back to its driver |
